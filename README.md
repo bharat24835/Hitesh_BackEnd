@@ -33,7 +33,6 @@ This is Video Series on BackEnd with JS
 5 -/.vscode<br>
 /node_modules<br>
 ./dist<br>
-<br>
 *star.env<br>
 .env<br>
 .env star*<br>
