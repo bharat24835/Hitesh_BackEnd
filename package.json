@@ -1,0 +1,15 @@
+{
+  "name": "hitesh-backend",
+  "version": "1.0.0",
+  "description": "I am learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "author": "Bharat",
+  "license": "ISC"
+}
